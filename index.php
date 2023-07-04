@@ -91,11 +91,13 @@
 <div class="col-md-6">
 <h2> About Us</h2>
 <div class="about-content">
-Support Youth Build Youth is piloting a program to show how intergenerational cooperation can help turn the Africa youth population bulge curse into population dividends. The program is based on the view that the population dynamics can be harnessed and nurtured through experiential leadership and engagements across ages to enhance skills and knowledge transfer, mentorship and talents development.
+Support Youth Build Youth is piloting a program to show how intergenerational cooperation can help turn the Africa youth population bulge curse into population dividends. <br>
+	The program is based on the view that the population dynamics can be harnessed and nurtured through experiential leadership and engagements across ages to enhance skills and knowledge transfer, mentorship and talents development.
 <br><br><br>
 Our Vision: A United and Prosperous Youth Group with the ability to develop skills essential for strong representation and participation of youth leading to political and  socio- economic development.
 <br><br><br>
-Our Mission: To be the umbrella organisation for all independent minded African youth, providing a platform for information exchange on diverse sustainable development issues, a forum for dialogue, debate and a network of emerging and future leaders in diverse sectors.
+Our Mission: To be the umbrella organisation for all independent minded African youth, providing a platform for information exchange on diverse sustainable development issues, <br>
+	a forum for dialogue, debate and a network of emerging and future leaders in diverse sectors.
 </div>
 <button type="button" class="btn btn-primary">Read More>></button>
 </div>
