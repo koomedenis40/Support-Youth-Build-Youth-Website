@@ -7,5 +7,4 @@ My first Website to Support Youth Build Youth is piloting a program to show how 
 ![image](https://github.com/koomedenis40/Support-Youth-Build-Youth-Website/assets/98518504/b903182c-5183-4b46-8ba6-c6225ed13a80)
 
 ## ToDo <br>
-
-I have to improve this website 
+Needs improvement. 
