@@ -1,5 +1,5 @@
 ## Support Youth Build Youth Website <SYBYS />
-My first Website aimed to Support Youth Build Youth, a pilot program to show how intergenerational cooperation can help turn the African youth population bulge curse into population dividends. <br>
+My first website aimed to Support Youth Build Youth, a pilot program to show how intergenerational cooperation can help turn the African youth population bulge curse into population dividends. <br>
 The program believes population dynamics can be harnessed and nurtured through experiential leadership and engagements across ages to enhance skills and knowledge transfer, mentorship, and talent development. <br>
 
  
