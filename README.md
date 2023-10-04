@@ -7,4 +7,4 @@ The program believes population dynamics can be harnessed and nurtured through e
 ![image](https://github.com/koomedenis40/Support-Youth-Build-Youth-Website/assets/98518504/b903182c-5183-4b46-8ba6-c6225ed13a80)
 
 ## TODO <br>
-This website is still under development up to due to resource constraints
+This website is still under development due to resource constraints
